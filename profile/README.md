@@ -106,8 +106,8 @@ Open for public learning and collaboration where applicable.
 ## 🌐 Connect
 
 - 🌐 **Portfolio:** [https://www.devbybrice.com](https://www.devbybrice.com)  
-- 🧠 **Blog:** [Medium — Data, Infrastructure & Automation](https://medium.com/@bricenelson)  
-- 💼 **LinkedIn:** [Brice Nelson](https://www.linkedin.com/in/brice-nelson)
+- 🧠 **Blog:** [Medium — Data, Infrastructure & Automation](https://medium.com/@quantshift)  
+- 💼 **LinkedIn:** [Brice Nelson](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)
 
 ---
 
